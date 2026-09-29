@@ -3,7 +3,7 @@
 <hr>
 
 - 🎓 I'm a 3rd-year CS student @ Technological University of the Shannon, interested in Full-Stack Development & AI.
-- 🌍 Based in Ireland · Open to internships in Ireland & Malaysia.
+- 🌏 From Malaysia 🇲🇾, currently studying in Ireland 🇮🇪 · Open to internships in both.
 
 ### 🌐 Connect with me:
 
@@ -26,7 +26,3 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 📈 GitHub Activity:
-
-<img src="https://ghchart.rshah.org/40c463/ShaneFun" alt="ShaneFun's GitHub contribution chart" width="100%" />
